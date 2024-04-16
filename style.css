@@ -1,0 +1,13 @@
+body{
+ background-color: aliceblue;
+}
+fieldset{
+ width: 100vh;
+ height: 10vh;
+ display: inline-flex;
+background-color: aliceblue;
+font-family: Helvetica;
+}
+button{
+ margin: 5px;
+}
